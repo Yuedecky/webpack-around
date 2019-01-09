@@ -1,0 +1,1 @@
+cnpm i url-loader file-loader webpack webpack-cli -D && npm run build

@@ -1,0 +1,9 @@
+{
+    "name":"demo-uglify",
+    "version":"1.0.0",
+    "scripts":{
+        "dev":"webpack-dev-server --open",
+        "build":"webpack -p"
+    },
+    "liscense":"MIT"
+}

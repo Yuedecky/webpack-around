@@ -1,0 +1,1 @@
+cnpm i webpack webpack-cli uglifyjs-webpack-plugin && npm run build
