@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{2:function(e,o){e.exports={message:"hello bundle-loader"}}}]);

@@ -1,0 +1,19 @@
+{
+  "name": "demo-commons-chunk-plugin",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "webpac": "^1.0.1",
+    "webpack-cli": "^3.2.1"
+  }
+}

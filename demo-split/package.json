@@ -1,0 +1,12 @@
+{
+  "name": "demo-split",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  }
+}
