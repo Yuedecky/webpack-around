@@ -1,0 +1,24 @@
+{
+  "name": "demo-webpack-dev-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo ops",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "build": "webpack",
+    "server": "node server.js"
+  },
+  "author": {
+    "name": "broad"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^1.0.0",
+    "express": "^4.16.4",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-middleware": "^3.5.0"
+  }
+}
