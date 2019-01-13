@@ -1,0 +1,12 @@
+{
+    "name":"demo-lazy-load",
+    "version":"1.0.0",
+    "scripts": {
+        "build":"wbepack -p",
+        "dev":"webpack-dev-server --open",
+    }
+    ,
+    "author": {
+        "name": "broad"
+    }
+}
