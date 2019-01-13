@@ -1,0 +1,12 @@
+{
+  "name": "demo-split-css",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^1.0.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0"
+  }
+}
