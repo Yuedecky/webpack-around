@@ -1,0 +1,9 @@
+{
+    "main": "dist/webpack-numbers.js",
+    "scripts": {
+
+    },
+    "author": {
+        "name": "broad"
+    }
+}

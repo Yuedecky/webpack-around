@@ -1,9 +1,9 @@
 {
-  "name": "demo-lazy-load",
+  "name": "demo-named-module-plugin",
   "version": "1.0.0",
   "scripts": {
-    "build": "webpack -p",
-    "dev": "webpack-dev-server --open"
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
   },
   "author": {
     "name": "broad"
@@ -11,6 +11,7 @@
   "devDependencies": {
     "clean-webpack-plugin": "^1.0.0",
     "html-webpack-plugin": "^3.2.0",
+    "lodash": "^4.17.11",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1"
   }
